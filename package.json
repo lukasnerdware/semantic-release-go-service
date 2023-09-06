@@ -1,0 +1,7 @@
+{
+    "name": "your-go-project",
+    "version": "1.0.0",
+    "description": "Description of your Go project",
+    "author": "Your Name",
+    "license": "MIT"
+}
